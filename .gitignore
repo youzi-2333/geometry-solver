@@ -1,0 +1,4 @@
+# 这是我自己测试的时候用的，因为 pypi 被墙了没法 pip install
+sympy
+mpmath
+*.pyc
